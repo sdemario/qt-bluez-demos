@@ -1,0 +1,14 @@
+.obj
+*.moc
+Makefile*
+*.so*
+*.o
+*~
+.cd.rc
+*.swp
+core
+moc_*.cpp
+*.Debug
+*.Release
+build
+*.a
